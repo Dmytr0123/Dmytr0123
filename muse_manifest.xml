@@ -1,0 +1,105 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="test2.google.com" resolutions="1x" timestamp="1481315917023">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_utilities.css" crc="455645783" ref="utilities:sewage:water:electricity"/>
+    <file name="master_recreation.css" crc="497445195" ref="entertainment:recreation:activity"/>
+    <file name="master_map.css" crc="116739051" ref="map"/>
+    <file name="master_transport.css" crc="467503669" ref="skyrail:local:international:aiport:metro:train-staion:transportation:bus"/>
+    <file name="master_home.css" crc="480931130" ref="index"/>
+    <file name="nomq_preview_master_home.css" crc="3824530138" ref="index"/>
+    <file name="master_education.css" crc="84130595" ref="grade-school:college:education"/>
+    <file name="master_safety.css" crc="284611639" ref="medical:fire:safety:police"/>
+    <file name="utilities.css" crc="4027335824" ref="utilities"/>
+    <file name="skyrail.css" crc="347815402" ref="skyrail"/>
+    <file name="medical.css" crc="304815260" ref="medical"/>
+    <file name="map.css" crc="4226015227" ref="map"/>
+    <file name="local.css" crc="347815402" ref="local"/>
+    <file name="sewage.css" crc="4027335824" ref="sewage"/>
+    <file name="grade-school.css" crc="4133592498" ref="grade-school"/>
+    <file name="fire.css" crc="304815260" ref="fire"/>
+    <file name="safety.css" crc="304815260" ref="safety"/>
+    <file name="international.css" crc="347815402" ref="international"/>
+    <file name="water.css" crc="4027335824" ref="water"/>
+    <file name="college.css" crc="4133592498" ref="college"/>
+    <file name="aiport.css" crc="347815402" ref="aiport"/>
+    <file name="education.css" crc="4133592498" ref="education"/>
+    <file name="entertainment.css" crc="165342704" ref="entertainment"/>
+    <file name="index.css" crc="173454149" ref="index"/>
+    <file name="nomq_index.css" crc="4196184487" ref="index"/>
+    <file name="recreation.css" crc="165342704" ref="recreation"/>
+    <file name="metro.css" crc="347815402" ref="metro"/>
+    <file name="police.css" crc="304815260" ref="police"/>
+    <file name="train-staion.css" crc="347815402" ref="train-staion"/>
+    <file name="transportation.css" crc="347815402" ref="transportation"/>
+    <file name="bus.css" crc="347815402" ref="bus"/>
+    <file name="electricity.css" crc="4027335824" ref="electricity"/>
+    <file name="activity.css" crc="165342704" ref="activity"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+    <file name="museutils.js" crc="163421577" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+    <file name="whatinput.js" crc="86476730" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+    <file name="museconfig.js" crc="36584860" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:education:safety:transportation:utilities:map:grade-school:college:police:fire:medical:local:international:train-staion:aiport:metro:bus:skyrail:electricity:sewage:water:recreation:activity:entertainment"/>
+  </folder>
+  <folder name="images">
+    <file name="welcome sign.png" crc="323547612" seo="true" ref="index"/>
+    <file name="skyline--templat.jpg" crc="4107842614" seo="true" ref="index"/>
+    <file name="edu-template.jpg" crc="3957408981" seo="true" ref="index"/>
+    <file name="saf-template.jpg" crc="4052617310" seo="true" ref="index"/>
+    <file name="tran--template.jpg" crc="295660158" seo="true" ref="index"/>
+    <file name="recreation--template.jpg" crc="3988641060" seo="true" ref="index"/>
+    <file name="map--template.jpg" crc="482295879" seo="true" ref="index"/>
+    <file name="uti--template.jpg" crc="78935372" seo="true" ref="index"/>
+    <file name="skyline--templat2560x1334.jpg" crc="46312657" seo="true" ref="index"/>
+    <file name="edu-template1280x721.jpg" crc="14422071" seo="true" ref="index"/>
+    <file name="saf-template1280x720.jpg" crc="335894031" seo="true" ref="index"/>
+    <file name="tran--template1280x721.jpg" crc="3780714761" seo="true" ref="index"/>
+    <file name="recreation--template720x720.jpg" crc="3854916458" seo="true" ref="index"/>
+    <file name="map--template720x720.jpg" crc="95646914" seo="true" ref="index"/>
+    <file name="uti--template1280x720.jpg" crc="363704819" seo="true" ref="index"/>
+    <file name="skyline--templat1920x1001.jpg" crc="487679430" seo="true" ref="index"/>
+    <file name="edu-template960x540.jpg" crc="363731952" seo="true" ref="index"/>
+    <file name="saf-template960x540.jpg" crc="4032879306" seo="true" ref="index"/>
+    <file name="tran--template960x540.jpg" crc="264080906" seo="true" ref="index"/>
+    <file name="recreation--template540x540.jpg" crc="335774610" seo="true" ref="index"/>
+    <file name="map--template540x540.jpg" crc="3941265177" seo="true" ref="index"/>
+    <file name="uti--template960x540.jpg" crc="3887550119" seo="true" ref="index"/>
+    <file name="skyline--templat1280x667.jpg" crc="4163793102" seo="true" ref="index"/>
+    <file name="edu-template640x360.jpg" crc="3956616793" seo="true" ref="index"/>
+    <file name="saf-template640x360.jpg" crc="3956848118" seo="true" ref="index"/>
+    <file name="tran--template640x360.jpg" crc="36427321" seo="true" ref="index"/>
+    <file name="recreation--template360x360.jpg" crc="3907066087" seo="true" ref="index"/>
+    <file name="map--template360x360.jpg" crc="76249717" seo="true" ref="index"/>
+    <file name="uti--template640x360.jpg" crc="121151514" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4280524624" seo="true" mt="1481315744171" redirect="true"/>
+  <file name="education.html" crc="4001899175" seo="true" mt="1481310339802" redirect="true"/>
+  <file name="safety.html" crc="3801919014" seo="true" mt="1481310339773" redirect="true"/>
+  <file name="transportation.html" crc="3852232233" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="utilities.html" crc="303212263" seo="true" mt="1481310339846" redirect="true"/>
+  <file name="map.html" crc="475447021" seo="true" mt="1481310339787" redirect="true"/>
+  <file name="grade-school.html" crc="380292121" seo="true" mt="1481310339802" redirect="true"/>
+  <file name="college.html" crc="4284589375" seo="true" mt="1481310339802" redirect="true"/>
+  <file name="police.html" crc="4132627988" seo="true" mt="1481310339773" redirect="true"/>
+  <file name="fire.html" crc="4154952643" seo="true" mt="1481310339773" redirect="true"/>
+  <file name="medical.html" crc="384897959" seo="true" mt="1481310339773" redirect="true"/>
+  <file name="local.html" crc="126620133" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="international.html" crc="3761749479" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="train-staion.html" crc="377725023" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="aiport.html" crc="376768469" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="metro.html" crc="461324242" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="bus.html" crc="4016160132" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="skyrail.html" crc="250761895" seo="true" mt="1481310339832" redirect="true"/>
+  <file name="electricity.html" crc="313653795" seo="true" mt="1481310339846" redirect="true"/>
+  <file name="sewage.html" crc="418832808" seo="true" mt="1481310339846" redirect="true"/>
+  <file name="water.html" crc="15393694" seo="true" mt="1481310339846" redirect="true"/>
+  <file name="recreation.html" crc="4089720741" seo="true" mt="1481310339860" redirect="true"/>
+  <file name="activity.html" crc="3849604192" seo="true" mt="1481310339860" redirect="true"/>
+  <file name="entertainment.html" crc="515434513" seo="true" mt="1481310339860" redirect="true"/>
+</manifest>
