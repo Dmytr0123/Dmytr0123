@@ -1,320 +1,368 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://test2.google.com/index.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/index.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/activity.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/activity.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/entertainment.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/entertainment.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/recreation.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/recreation.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/water.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/water.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/sewage.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/sewage.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/electricity.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/electricity.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/skyrail.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/skyrail.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/bus.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/bus.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/metro.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/metro.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/aiport.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/aiport.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/train-staion.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/train-staion.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/international.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/international.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/local.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/local.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/medical.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/medical.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/fire.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/fire.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/police.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/police.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/college.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/college.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/grade-school.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/grade-school.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/map.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/map.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/utilities.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/utilities.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/transportation.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/transportation.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/safety.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/safety.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/education.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/education.html</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/saf-template640x360.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/saf-template640x360.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/skyline--templat1280x667.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/tran--template640x360.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/edu-template640x360.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/recreation--template360x360.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/map--template360x360.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/map--template360x360.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/uti--template640x360.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/uti--template640x360.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/skyline--templat.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/skyline--templat1280x667.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/uti--template960x540.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/edu-template640x360.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/map--template540x540.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/saf-template540x304.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/recreation--template540x540.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/tran--template540x304.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/tran--template960x540.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/recreation--template304x304.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/saf-template960x540.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/map--template304x304.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/edu-template960x540.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/uti--template540x304.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/skyline--templat1920x1001.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/under%20construction.gif</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/uti--template1280x720.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/skyline--templat.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/map--template720x720.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/uti--template960x540.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/recreation--template720x720.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/map--template540x540.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/tran--template1280x721.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/recreation--template540x540.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/saf-template1280x720.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/tran--template960x540.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/edu-template1280x721.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/saf-template960x540.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/skyline--templat2560x1334.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/edu-template960x540.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/uti--template.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/skyline--templat1920x1001.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/map--template.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/uti--template1280x720.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/recreation--template.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/map--template720x720.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/tran--template.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/recreation--template720x720.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/saf-template.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/tran--template1280x721.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/edu-template.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/saf-template1280x720.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/tran--template640x360.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/edu-template1280x721.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/welcome%20sign.png</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/skyline--templat2560x1334.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test2.google.com/images/recreation--template360x360.jpg</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>http://dmytr0123.github.io/images/uti--template.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/map--template.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/recreation--template.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/tran--template.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/saf-template.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/edu-template.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/skyline--templat1080x563.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/welcome%20sign.png</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmytr0123.github.io/images/edu-template540x304.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
